@@ -1,4 +1,4 @@
-Welcome Students! The **Take2 Curriculum** balances learning javascript with hands-on project-based learning that builds confidence through the construction of personalised working applications.
+Welcome Students! The **Take2 Curriculum** balances learning Javascript with hands-on project-based learning that builds confidence through the construction of personalised working applications.
 
 We teach simple Website elements first, HTML, CSS and then the core features of any programming language in JavaScript. Early in the course, we move the learning environment to a Web Framework (React) in order to put you into a place where you are more ready for a commercial setting.
 
