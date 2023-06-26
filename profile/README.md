@@ -1,6 +1,6 @@
-The **Take2 Curriculum** balances the learning of a computer language with the hands-on project-based learning that builds confidence through the construction of personalized working applications.
+The **Take2 Curriculum** balances the learning of a computer language with the hands-on project-based learning that builds confidence through the construction of personalised working applications.
 
-We teach simple Website elements first, then the core features of any programming language in JavaScript. Early in the course, we move the learning environment to a Web Framework (React) in order to put our students into a place where they are more readily productive in a commercial setting - as this builds confidence for them, and also for employers.
+We teach simple Website elements first, then the core features of any programming language in JavaScript. Early in the course, we move the learning environment to a Web Framework (React) in order to put our students into a place where they are more readily productive in a commercial setting.
 
 The Take2 Curriculum sets out to teach Full Stack programming via three major milestones:
 1. Basic JavaScript language and a first working React Application
