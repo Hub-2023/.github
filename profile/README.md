@@ -10,3 +10,5 @@ The Take2 Curriculum sets out to teach Full Stack programming via three major mi
 
 
 Here you will find the challenges and exercises to acompany you on this learning journey.
+
+Enjoy! :) 
